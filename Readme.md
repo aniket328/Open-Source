@@ -46,5 +46,7 @@
 ## The processing foundation fellowship 
     Opens Spring 2021
 
-## Link to all the open Source Organizaions and Competetion
+
+
+### Link to all the open Source Organizaions and Competetion
 https://opensourceinternships.herokuapp.com/
